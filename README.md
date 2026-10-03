@@ -49,3 +49,7 @@ git add .
 git commit -m "message"
 git push
 git pull
+
+## Login Automation
+
+The framework includes positive and negative login test scenarios using TestNG DataProvider.
