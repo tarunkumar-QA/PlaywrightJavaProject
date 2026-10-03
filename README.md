@@ -52,4 +52,4 @@ git pull
 
 ## Login Automation
 
-Login automation covers functional and negative test scenarios using Playwright and TestNG.
+Login automation covers valid and invalid login scenarios using Playwright and TestNG DataProvider.
