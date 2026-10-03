@@ -52,4 +52,4 @@ git pull
 
 ## Login Automation
 
-The framework includes positive and negative login test scenarios using TestNG DataProvider.
+Login tests cover valid and invalid login scenarios using TestNG DataProvider.
