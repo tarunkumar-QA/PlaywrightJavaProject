@@ -52,4 +52,4 @@ git pull
 
 ## Login Automation
 
-The framework includes positive and negative login test scenarios using TestNG DataProvider.
+Login automation covers functional and negative test scenarios using Playwright and TestNG.
