@@ -1,0 +1,10 @@
+target/
+screenshots/
+videos/
+traces/
+test-output/
+auth.json
+*.log
+.classpath
+.project
+.settings/
